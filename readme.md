@@ -1,0 +1,1 @@
+<img src="/paper.png" alt="Captura de tela do newspaper">
